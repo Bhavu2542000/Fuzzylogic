@@ -1,0 +1,3 @@
+Mobile Robot Navigation:
+Develop a fuzzy logic system for controlling the navigation of a mobile robot. 
+Used input variables such as obstacle proximity, desired direction, and speed to guide the robot through a predefined path.
